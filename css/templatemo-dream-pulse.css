@@ -331,12 +331,6 @@ a {
   cursor: pointer;
 }
 
-img {
-  
-    float: left;
-    height: 150px;
-    object-fit: cover;
-}
 
 .tm-gallery-item figure figcaption {
   padding: 1em;
