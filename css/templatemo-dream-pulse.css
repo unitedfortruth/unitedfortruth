@@ -322,12 +322,11 @@ a {
   cursor: pointer;
 }
 
-.tm-gallery-item figure img {
-  position: relative;
-  display: block;
-  min-height: 100%;
-  max-width: 100%;
-  opacity: 0.8;
+img {
+  
+    float: left;
+    height: 50px;
+    object-fit: cover;
 }
 
 .tm-gallery-item figure figcaption {
